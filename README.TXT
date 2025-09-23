@@ -38,10 +38,10 @@
    pip install playwright
    playwright install chromium
    ```
-2. 下载源码文件 `抢课助手2.1.1.py`
+2. 下载源码文件 `抢课助手2.1.2.py`
 3. 运行程序：
    ```bash
-   python 抢课助手2.1.1.py
+   python 抢课助手2.1.2.py
    ```
 
 ## ⚙️ 配置文件说明
@@ -255,4 +255,5 @@ enter_course_attempts=999
 ---
 
 **最后提醒：请合理使用本程序，遵守学校相关规定，不要给服务器造成过大压力。祝您选课顺利！** 🎓
+
 
